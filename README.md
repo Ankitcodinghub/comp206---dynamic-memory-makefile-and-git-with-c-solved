@@ -1,0 +1,1 @@
+# comp206---dynamic-memory-makefile-and-git-with-c-solved
